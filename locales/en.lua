@@ -6,5 +6,5 @@ Locales['en'] = {
     ['oranges_processed']           = 'You process 4x Oranges and you get 1x orange juice',
     ['progressbar_cancel']          = 'You canceled the transaction!',
     ['not_enough_items']            = "You don't have enough items in your inventory!",
-    ['proccesing']                  = 'Processing...'
+    ['processing']                  = 'Processing...'
 }
