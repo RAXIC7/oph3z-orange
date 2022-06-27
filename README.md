@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=p3lWonQkGPA
 - Don't forget to edit Discord Log part in config.lua
 - Do not forget to add the items to the data
 - You can change the language option from config.lua (Currently only English and Turkish languages are available.)
+- 0.01-0.00 ms when no one is using
 
 ## Note:
 HTML part mady by ! Resul#0001
