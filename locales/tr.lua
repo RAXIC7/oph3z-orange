@@ -6,5 +6,5 @@ Locales['tr'] = {
     ['oranges_processed']           = '4x Portakal işledin ve 1x portakal suyu aldın',
     ['progressbar_cancel']          = 'İşlemli iptal ettin!',
     ['not_enough_items']            = 'Üzerinde yeteri kadar item yok!',
-    ['proccesing']                  = 'İşleniyor...'
+    ['processing']                  = 'İşleniyor...'
 }
