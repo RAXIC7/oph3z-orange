@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=p3lWonQkGPA
 - Easily editable from config.lua
 - Don't forget to edit Discord Log part in config.lua
 - Do not forget to add the items to the data
+- You can change the language option from config.lua (Currently only English and Turkish languages are available.)
 
 ## Note:
 HTML part mady by ! Resul#0001
