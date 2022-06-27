@@ -128,7 +128,7 @@ Citizen.CreateThread(function()
                     exports['mythic_progbar']:Progress({
                         name = "oph3z-orange",
                         duration = 5000,
-                        label = _U('proccesing'),
+                        label = _U('processing'),
                         useWhileDead = false,
                         canCancel = true,
                         controlDisables = {
