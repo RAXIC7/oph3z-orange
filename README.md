@@ -1,7 +1,7 @@
 # oph3z-orange
 
 # VIDEO:
-https://www.youtube.com/watch?v=7E71TJlpbzo
+https://www.youtube.com/watch?v=p3lWonQkGPA
 
 ## Features:
 - You go to a field and press E
