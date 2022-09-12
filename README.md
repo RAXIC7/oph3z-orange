@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=p3lWonQkGPA
 - 0.01-0.00 ms when no one is using
 
 ## Note:
-HTML part mady by ! Resul#0001
+HTML part made by ! Resul#0001
 
 ## Requirements:
 - mythic_notify
